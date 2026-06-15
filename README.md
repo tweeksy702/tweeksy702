@@ -82,11 +82,16 @@
 
 </div>
 
-## 📚 Немого статистики
+## 📊 Моя активность на GitHub
 
-<div>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tweeksy702&theme=tokyo-night&hide_border=true&area=true)
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tweeksy702&theme=tokyo-night&hide_border=true&area=true&custom_title=Моя%20активность)
+
 </div>
+
+### 🔥 Streak (дни подряд)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tweeksy702&theme=tokyonight&hide_border=true)
 
 ---
 
