@@ -36,7 +36,7 @@
 | **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> |
 | **HTML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> |
 | **CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> |
-| **Claude Code** | <img src="https://cdn.simpleicons.org/anthropic/191414" width="40" height="40" alt="Claude"/> |
+| **Claude Code** | <img src="https://anthropic.com/favicon.ico" width="40" height="40" alt="Claude Code"/> |
 | **GitHub** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> |
 
 </div>
@@ -49,7 +49,7 @@
 
 | Инструмент | Иконка | Назначение |
 |:---|:---:|:---|
-| **DaVinci Resolve** | <img src="https://images.icon-icons.com/3053/PNG/512/davinci_resolve_macos_bigsur_icon_189964.png" width="40" height="40"/> | 🎬 Видеомонтаж |
+| **DaVinci Resolve** | <img src="https://cdn.simpleicons.org/davinciresolve/FF6F00" width="40" height="40" alt="DaVinci Resolve"/> | 🎬 Видеомонтаж |
 | **Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> | 🎨 UI/UX дизайн |
 | **YouTube** | <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" alt="YouTube"/> | Медиаконтент | 
 
