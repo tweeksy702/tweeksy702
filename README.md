@@ -131,17 +131,9 @@ class Egor:
 
 ---
 
-## 🎬 Мои работы
-
 <div align="center">
 
-### 🎥 Видео-обзор 1
-
-</div>
-
-<div align="center">
-
-<https://ССЫЛКА_ВИДЕО_1>
+<https://github.com/tweeksy702/tweeksy702/blob/main/ae63e762f9aea4be61f416ceb7988e1e_720w.mp4>
 
 </div>
 
@@ -160,13 +152,7 @@ class Egor:
 
 <div align="center">
 
-### 🎥 Видео-обзор 2
-
-</div>
-
-<div align="center">
-
-<https://ССЫЛКА_ВИДЕО_2>
+<https://github.com/tweeksy702/tweeksy702/blob/main/191ce9bd4753e8653e48f37e58dce334_720w.mp4>
 
 </div>
 
@@ -237,8 +223,6 @@ class Egor:
 
 <div align="center">
 
-💬 **Открыт для общения, проектов и интересных предложений!**
-
 <a href="mailto:podosinoviki55@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-podosinoviki55%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -254,11 +238,6 @@ class Egor:
 <div align="center">
 
 ### 💡 *"Лучший код — это код, который решает реальные проблемы"*
-
-⭐ **Спасибо, что заглянули в мой профиль!**
-
-![Made with Love](https://img.shields.io/badge/Made_with-❤️-ff69b4?style=for-the-badge)
-![In Russia](https://img.shields.io/badge/Made_in-Russia-0039A6?style=for-the-badge&flag=russia)
 
 </div>
 
