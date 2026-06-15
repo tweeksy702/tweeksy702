@@ -51,8 +51,9 @@
 |:---|:---:|:---|
 | **DaVinci Resolve** | <img src="https://cdn.simpleicons.org/davinciresolve/FF6F00" width="40" height="40" alt="DaVinci Resolve"/> | 🎬 Видеомонтаж |
 | **Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> | 🎨 UI/UX дизайн |
-| **YouTube** | <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" alt="YouTube"/> | Медиаконтент | 
-
+| **YouTube** | <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" alt="YouTube"/> | 📹 Медиаконтент | 
+| **Cloudflare** | <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" alt="Cloudflare"/> | ☁️ Хостинг и CDN |
+| **Netlify** | <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/> | 🚀 Деплой сайтов |
 
 </div>
 
