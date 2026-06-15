@@ -36,7 +36,7 @@
 | **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> |
 | **HTML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> |
 | **CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> |
-| **Claude Code** | <img src="https://avatars.githubusercontent.com/u/186607937?s=200&v=4" width="40" height="40"/> |
+| **Claude Code** | <img src="https://cdn.simpleicons.org/anthropic/191414" width="40" height="40" alt="Claude"/> |
 | **GitHub** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> |
 
 </div>
@@ -51,7 +51,8 @@
 |:---|:---:|:---|
 | **DaVinci Resolve** | <img src="https://images.icon-icons.com/3053/PNG/512/davinci_resolve_macos_bigsur_icon_189964.png" width="40" height="40"/> | 🎬 Видеомонтаж |
 | **Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> | 🎨 UI/UX дизайн |
-| **YouTube** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/> | 📹 Видеоконтент |
+| **YouTube** | <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" alt="YouTube"/> | Медиаконтент | 
+
 
 </div>
 
@@ -93,6 +94,9 @@
 ### 🔥 Streak (дни подряд)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tweeksy702&theme=tokyonight&hide_border=true)
 
+
+### 💻 Топ языков
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tweeksy702&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 📬 Связаться со мной
