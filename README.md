@@ -132,7 +132,7 @@ class Egor:
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif1.gif)
+![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif1.gif)
 
 </div>
 
@@ -140,7 +140,7 @@ class Egor:
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
+![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
 
 </div>
 
