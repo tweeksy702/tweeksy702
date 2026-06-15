@@ -82,7 +82,11 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+## 📚 Немого статистики
+
+<div>
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tweeksy702&theme=tokyo-night&hide_border=true&area=true)](https://github.com/tweeksy702)
+</div>
 
 ---
 
