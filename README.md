@@ -34,7 +34,6 @@ class Egor:
 - 🌐 **HTML & CSS** — вёрстка веб-страниц
 - 📊 **MySQL** — работа с базами данных
 - 🔧 **Git и GitHub** — контроль версий
-- 🤖 **Claude Code** — AI-ассистент для разработки
 - ☁️ **Cloudflare и Netlify** — деплой и защита веб-проектов
 
 ---
@@ -133,7 +132,7 @@ class Egor:
 
 <div align="center">
 
-<https://github.com/tweeksy702/tweeksy702/blob/main/ae63e762f9aea4be61f416ceb7988e1e_720w.mp4>
+<https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/191ce9bd4753e8653e48f37e58dce334_720w.mp4>
 
 </div>
 
@@ -152,7 +151,7 @@ class Egor:
 
 <div align="center">
 
-<https://github.com/tweeksy702/tweeksy702/blob/main/191ce9bd4753e8653e48f37e58dce334_720w.mp4>
+<https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/ae63e762f9aea4be61f416ceb7988e1e_720w.mp4>
 
 </div>
 
