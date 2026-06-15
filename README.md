@@ -132,7 +132,7 @@ class Egor:
 
 <div align="center">
 
-<https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/191ce9bd4753e8653e48f37e58dce334_720w.mp4>
+<https://github.com/tweeksy702/tweeksy702/blob/main/gif1.gif?raw=true>
 
 </div>
 
@@ -151,7 +151,7 @@ class Egor:
 
 <div align="center">
 
-<https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/ae63e762f9aea4be61f416ceb7988e1e_720w.mp4>
+<https://github.com/tweeksy702/tweeksy702/blob/main/gif2.gif?raw=true>
 
 </div>
 
