@@ -99,7 +99,7 @@
 
 <div align="center">
 
-📧 **Email:** [**podosinoviki55@gmail.com**](mailto:podosinoviki55@gmail.com)
+📧 **Email:** 
 
 <a href="mailto:podosinoviki55@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-podosinoviki55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -109,8 +109,3 @@
 
 ---
 
-<div align="center">
-
-⭐ **Спасибо, что заглянули!**
-
-</div>
