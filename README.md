@@ -85,7 +85,7 @@
 ## 📚 Немого статистики
 
 <div>
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tweeksy702&theme=tokyo-night&hide_border=true&area=true)](https://github.com/tweeksy702)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tweeksy702&theme=tokyo-night&hide_border=true&area=true)
 </div>
 
 ---
