@@ -132,14 +132,6 @@ class Egor:
 
 <div align="center">
 
-![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif1.gif)
-
-</div>
-
-<br>
-
-<div align="center">
-
 ![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
 
 </div>
