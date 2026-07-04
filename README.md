@@ -25,7 +25,7 @@ class Egor:
         self.learning_motto = "Код — это способ изменить мир"
     
     def daily_routine(self):
-        return ["Учёба", "Программирование", "Создание проектов", "Саморазвитие"]
+        return ["Учёба", "Программирование", "Создание проектов"]
 ```
 
 🗓 **Свой путь в IT я начал в 2023 году** с государственных курсов, где изучал язык программирования **Java**. После этого начал самостоятельно осваивать:
@@ -123,6 +123,7 @@ class Egor:
 <br><b>Netlify</b>
 <br><sub>🚀 Деплой</sub>
 </td>
+<td align="center" width="140"> <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="Render"/> <br><b>Render</b> <br><sub>🤖 Деплой ботов</sub> </td> </tr>
 </tr>
 </table>
 
