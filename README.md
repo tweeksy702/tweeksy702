@@ -100,7 +100,7 @@ class Egor:
 <tr>
 <td align="center" width="140">
 <img src="https://cdn.simpleicons.org/davinciresolve/FF6F00" width="50" height="50" alt="DaVinci Resolve"/>
-<br><b>DaVinci Resolve</b>
+<br><b>DaVinci</b>
 <br><sub>🎬 Видеомонтаж</sub>
 </td>
 <td align="center" width="140">
@@ -121,7 +121,7 @@ class Egor:
 <td align="center" width="140">
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="50" height="50" alt="Netlify"/>
 <br><b>Netlify</b>
-<br><sub>🚀 Деплой</sub>
+<br><sub>🚀 Деплой сайтов</sub>
 </td>
 <td align="center" width="140"> <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="Render"/> <br><b>Render</b> <br><sub>🤖 Деплой ботов</sub> </td> </tr>
 </tr>
