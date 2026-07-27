@@ -22,7 +22,7 @@ class Egor:
         self.age = 16
         self.started_coding = 2023
         self.current_focus = ["Python", "Java", "Web Development"]
-        self.learning_motto = "Код — это способ изменить мир"
+        self.learning_motto = "Шифрование — это не стена. Это длинный тёмный коридор, в конце которого кто-то дышит."
     
     def daily_routine(self):
         return ["Учёба", "Программирование", "Создание проектов"]
