@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 Обо мне
 
 ```python
@@ -119,15 +117,15 @@ class Egor:
 
 ---
 
-## 🎯 Areas of Expertise
+## ⚔️ Areas of Expertise
 
 <div align="center">
 
-![Static Analysis](https://img.shields.io/badge/Static_Analysis-5C2D91?style=for-the-badge)
-![Dynamic Analysis](https://img.shields.io/badge/Dynamic_Analysis-4B0082?style=for-the-badge)
+![Static Analysis](https://img.shields.io/badge/Static_Analysis-8A2BE2?style=for-the-badge)
+![Dynamic Analysis](https://img.shields.io/badge/Dynamic_Analysis-8A2BE2?style=for-the-badge)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-6E4C13?style=for-the-badge)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-394EFF?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-FF6F00?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-FF6F00?style=for-the-badge)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6F00?style=for-the-badge)
 
 </div>
@@ -156,37 +154,37 @@ class Egor:
 
 ### 🔬 Статический анализ
 
-![Ghidra](https://img.shields.io/badge/Ghidra-5C2D91?style=for-the-badge)
-![binwalk](https://img.shields.io/badge/binwalk-1A1A1A?style=for-the-badge)
-![strings](https://img.shields.io/badge/strings-4B0082?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-8A2BE2?style=for-the-badge)
+![binwalk](https://img.shields.io/badge/binwalk-2E2E2E?style=for-the-badge)
+![strings](https://img.shields.io/badge/strings-8A2BE2?style=for-the-badge)
 ![xxd](https://img.shields.io/badge/xxd-2E2E2E?style=for-the-badge)
-![exiftool](https://img.shields.io/badge/exiftool-6E4C13?style=for-the-badge)
-![PEStudio](https://img.shields.io/badge/PEStudio-005C99?style=for-the-badge)
-![Detect It Easy](https://img.shields.io/badge/Detect_It_Easy-8B0000?style=for-the-badge)
-![file](https://img.shields.io/badge/file-3D3D3D?style=for-the-badge)
-![YARA](https://img.shields.io/badge/YARA-4B0082?style=for-the-badge)
+![exiftool](https://img.shields.io/badge/exiftool-FF6F00?style=for-the-badge)
+![PEStudio](https://img.shields.io/badge/PEStudio-8A2BE2?style=for-the-badge)
+![Detect It Easy](https://img.shields.io/badge/Detect_It_Easy-8A2BE2?style=for-the-badge)
+![file(1)](https://img.shields.io/badge/file(1)-2E2E2E?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-FF6F00?style=for-the-badge)
 
 ### 🧪 Динамический анализ
 
 ![x64dbg](https://img.shields.io/badge/x64dbg-2E2E2E?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Procmon](https://img.shields.io/badge/Process_Monitor-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![API Monitor](https://img.shields.io/badge/API_Monitor-4B0082?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-8A2BE2?style=for-the-badge&logo=wireshark&logoColor=white)
+![Procmon](https://img.shields.io/badge/Process_Monitor-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)
+![API Monitor](https://img.shields.io/badge/API_Monitor-2E2E2E?style=for-the-badge)
 
 ### 🕵️ Стеганография и кодирование
 
-![steghide](https://img.shields.io/badge/steghide-4E4E4E?style=for-the-badge)
-![stegsnow](https://img.shields.io/badge/stegsnow-6E4C13?style=for-the-badge)
+![steghide](https://img.shields.io/badge/steghide-FF6F00?style=for-the-badge)
+![stegsnow](https://img.shields.io/badge/stegsnow-FF6F00?style=for-the-badge)
 ![CyberChef](https://img.shields.io/badge/CyberChef-FF6F00?style=for-the-badge)
 
-### 🧬 Threat Intelligence
+### 🛰️ Threat Intelligence
 
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-1A1A1A?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-8A2BE2?style=for-the-badge&logo=virustotal&logoColor=white)
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-FF6F00?style=for-the-badge)
 
 ### 🔓 Пароли и хеши
 
-![CrackStation](https://img.shields.io/badge/CrackStation-8B0000?style=for-the-badge)
+![CrackStation](https://img.shields.io/badge/CrackStation-2E2E2E?style=for-the-badge)
 ![hashcat](https://img.shields.io/badge/hashcat-2E2E2E?style=for-the-badge)
 
 </div>
@@ -208,7 +206,7 @@ class Egor:
 
 ---
 
-## 🚩 CTF & Платформы
+## 🚩 CTF & Platforms
 
 <div align="center">
 
@@ -226,12 +224,9 @@ class Egor:
 <div align="center">
 
 > 📕 **«От джуна до сеньора: Как стать востребованным разработчиком»**
-> 
 > ✍️ *Владимир Швец*
-> 
 
 > 📗 **«Practical Malware Analysis»**
-> 
 > ✍️ *Michael Sikorski, Andrew Honig*
 
 </div>
@@ -293,14 +288,6 @@ class Egor:
 
 ---
 
-<div align="center">
-
-![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
-
-</div>
-
----
-
 ## 📬 Связаться со мной
 
 <div align="center">
@@ -312,6 +299,14 @@ class Egor:
 <a href="https://github.com/tweeksy702">
 <img src="https://img.shields.io/badge/GitHub-tweeksy702-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
 
 </div>
 
