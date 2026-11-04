@@ -138,11 +138,11 @@ class Egor:
 
 | Этап | Описание |
 |:---:|:---|
-| **1. Triage** | Первичная оценка образца: хеши, тип файла, базовая классификация |
-| **2. Static Analysis** | Strings, PE-заголовки, подозрительные импорты, энтропия |
-| **3. Dynamic Analysis** | Детонация в изолированной среде, мониторинг процессов и сети |
-| **4. IOCs** | Извлечение индикаторов компрометации: IP, домены, хеши, артефакты |
-| **5. Report** | Документирование результатов, YARA-правила, техники MITRE ATT&CK |
+| **🔍 Triage** | Первичная оценка образца: хеши, тип файла, базовая классификация |
+| **📄 Static Analysis** | Strings, PE-заголовки, подозрительные импорты, энтропия |
+| **🧪 Dynamic Analysis** | Детонация в изолированной среде, мониторинг процессов и сети |
+| **🎯 IOCs** | Извлечение индикаторов компрометации: IP, домены, хеши, артефакты |
+| **📝 Report** | Документирование результатов, YARA-правила, техники MITRE ATT&CK |
 
 </div>
 
@@ -191,9 +191,11 @@ class Egor:
 
 ---
 
-## 🎓 Пройденные курсы
+## 🎓 Обучение
 
 <div align="center">
+
+### 📚 Курсы
 
 | 📚 Курс | 🏫 Платформа | 📅 Период |
 |:---|:---|:---|
@@ -201,6 +203,11 @@ class Egor:
 | ☕ **Java — Модуль 2** | Кванториум | `08.2025 — 05.2026` |
 | 🛠 **DevOps простым языком** | Stepik | `03.2025 — 04.2025` |
 | 🐍 **Поколение Python: курс для начинающих** | Stepik | `04.2026 — 05.2026` |
+
+### 📖 Книги
+
+> 📗 **«Practical Malware Analysis»**
+> ✍️ *Michael Sikorski, Andrew Honig*
 
 </div>
 
@@ -214,20 +221,6 @@ class Egor:
 |:---|:---|
 | **OverTheWire Bandit** | Базовые навыки Linux CLI, работа с файлами и разбор hexdump |
 | **picoCTF** | Задачи по reverse, forensics и crypto |
-
-</div>
-
----
-
-## 📖 Литература
-
-<div align="center">
-
-> 📕 **«От джуна до сеньора: Как стать востребованным разработчиком»**
-> ✍️ *Владимир Швец*
-
-> 📗 **«Practical Malware Analysis»**
-> ✍️ *Michael Sikorski, Andrew Honig*
 
 </div>
 
@@ -306,7 +299,7 @@ class Egor:
 
 <div align="center">
 
-![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
+![Profile animation](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
 
 </div>
 
