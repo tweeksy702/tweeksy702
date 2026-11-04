@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Привет, меня зовут Егор!
+# Егор · Malware Analyst
 
-## 🛡️ Malware Analyst
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&speed=20&color=8A2BE2&center=true&vCenter=true&width=600&lines=Malware+Analysis;CTF+Enthusiast;Digital+Forensics;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=250&speed=10&color=8A2BE2&center=true&vCenter=true&width=600&lines=Malware+Analysis;CTF+Enthusiast;Digital+Forensics;Always+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -82,6 +80,16 @@ class Egor:
 <br><b>CSS</b>
 </td>
 </tr>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+<br><b>Git</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+<br><b>GitHub</b>
+</td>
+</tr>
 </table>
 
 ### 🖥️ Операционные системы
@@ -106,6 +114,37 @@ class Egor:
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🎯 Areas of Expertise
+
+<div align="center">
+
+![Static Analysis](https://img.shields.io/badge/Static_Analysis-5C2D91?style=for-the-badge)
+![Dynamic Analysis](https://img.shields.io/badge/Dynamic_Analysis-4B0082?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-6E4C13?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-394EFF?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6F00?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧭 Analysis Workflow
+
+<div align="center">
+
+| Этап | Описание |
+|:---:|:---|
+| **1. Triage** | Первичная оценка образца: хеши, тип файла, базовая классификация |
+| **2. Static Analysis** | Strings, PE-заголовки, подозрительные импорты, энтропия |
+| **3. Dynamic Analysis** | Детонация в изолированной среде, мониторинг процессов и сети |
+| **4. IOCs** | Извлечение индикаторов компрометации: IP, домены, хеши, артефакты |
+| **5. Report** | Документирование результатов, YARA-правила, техники MITRE ATT&CK |
 
 </div>
 
@@ -149,78 +188,6 @@ class Egor:
 
 ![CrackStation](https://img.shields.io/badge/CrackStation-8B0000?style=for-the-badge)
 ![hashcat](https://img.shields.io/badge/hashcat-2E2E2E?style=for-the-badge)
-
-</div>
-
----
-
-## 🔧 Инструменты разработки
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-<br><b>Git</b>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-<br><b>GitHub</b>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎨 Инструменты
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/davinciresolve/FF6F00" width="50" height="50" alt="DaVinci Resolve"/>
-<br><b>DaVinci</b>
-<br><sub>🎬 Видеомонтаж</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
-<br><b>Figma</b>
-<br><sub>🎨 UI/UX дизайн</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" height="50" alt="YouTube"/>
-<br><b>YouTube</b>
-<br><sub>📹 Контент</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="50" height="50" alt="Cloudflare"/>
-<br><b>Cloudflare</b>
-<br><sub>☁️ CDN</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="50" height="50" alt="Netlify"/>
-<br><b>Netlify</b>
-<br><sub>🚀 Деплой сайтов</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="Render"/>
-<br><b>Render</b>
-<br><sub>🤖 Деплой ботов</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
 
 </div>
 
@@ -283,28 +250,52 @@ class Egor:
 
 ---
 
-## 🛡️ Cyber Range Stats
+## 🎨 Инструменты
 
 <div align="center">
 
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-</a>
-<a href="https://app.hackthebox.com/">
-<img src="https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box"/>
-</a>
-<a href="https://www.root-me.org/">
-<img src="https://img.shields.io/badge/Root--Me-Profile-000000?style=for-the-badge&logo=rootme&logoColor=white" alt="Root-Me"/>
-</a>
-<a href="https://cyberdefenders.org/">
-<img src="https://img.shields.io/badge/CyberDefenders-Profile-0055A4?style=for-the-badge&logo=cyberdefenders&logoColor=white" alt="CyberDefenders"/>
-</a>
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/davinciresolve/FF6F00" width="50" height="50" alt="DaVinci Resolve"/>
+<br><b>DaVinci</b>
+<br><sub>🎬 Видеомонтаж</sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+<br><b>Figma</b>
+<br><sub>🎨 UI/UX дизайн</sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" height="50" alt="YouTube"/>
+<br><b>YouTube</b>
+<br><sub>📹 Контент</sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="50" height="50" alt="Cloudflare"/>
+<br><b>Cloudflare</b>
+<br><sub>☁️ CDN</sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="50" height="50" alt="Netlify"/>
+<br><b>Netlify</b>
+<br><sub>🚀 Деплой сайтов</sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="Render"/>
+<br><b>Render</b>
+<br><sub>🤖 Деплой ботов</sub>
+</td>
+</tr>
+</table>
 
-<br><br>
+</div>
 
-<img src="https://img.shields.io/badge/Focus-Malware_Analysis-8A2BE2?style=for-the-badge" alt="Focus"/>
-<img src="https://img.shields.io/badge/Specialty-Digital_Forensics-4B0082?style=for-the-badge" alt="Specialty"/>
-<img src="https://img.shields.io/badge/CTF-Active-FF6F00?style=for-the-badge" alt="CTF"/>
+---
+
+<div align="center">
+
+![ВИДЕО](https://raw.githubusercontent.com/tweeksy702/tweeksy702/main/gif2.gif)
 
 </div>
 
