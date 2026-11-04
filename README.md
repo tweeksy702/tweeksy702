@@ -124,9 +124,9 @@ class Egor:
 ![Static Analysis](https://img.shields.io/badge/Static_Analysis-8A2BE2?style=for-the-badge)
 ![Dynamic Analysis](https://img.shields.io/badge/Dynamic_Analysis-8A2BE2?style=for-the-badge)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-FF6F00?style=for-the-badge)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-FF6F00?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6F00?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-8A2BE2?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-8A2BE2?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-8A2BE2?style=for-the-badge)
 
 </div>
 
@@ -155,37 +155,37 @@ class Egor:
 ### 🔬 Статический анализ
 
 ![Ghidra](https://img.shields.io/badge/Ghidra-8A2BE2?style=for-the-badge)
-![binwalk](https://img.shields.io/badge/binwalk-2E2E2E?style=for-the-badge)
+![binwalk](https://img.shields.io/badge/binwalk-8A2BE2?style=for-the-badge)
 ![strings](https://img.shields.io/badge/strings-8A2BE2?style=for-the-badge)
-![xxd](https://img.shields.io/badge/xxd-2E2E2E?style=for-the-badge)
-![exiftool](https://img.shields.io/badge/exiftool-FF6F00?style=for-the-badge)
+![xxd](https://img.shields.io/badge/xxd-8A2BE2?style=for-the-badge)
+![exiftool](https://img.shields.io/badge/exiftool-8A2BE2?style=for-the-badge)
 ![PEStudio](https://img.shields.io/badge/PEStudio-8A2BE2?style=for-the-badge)
 ![Detect It Easy](https://img.shields.io/badge/Detect_It_Easy-8A2BE2?style=for-the-badge)
-![file(1)](https://img.shields.io/badge/file(1)-2E2E2E?style=for-the-badge)
-![YARA](https://img.shields.io/badge/YARA-FF6F00?style=for-the-badge)
+![file(1)](https://img.shields.io/badge/file(1)-8A2BE2?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-8A2BE2?style=for-the-badge)
 
 ### 🧪 Динамический анализ
 
-![x64dbg](https://img.shields.io/badge/x64dbg-2E2E2E?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/x64dbg-8A2BE2?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-8A2BE2?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Procmon](https://img.shields.io/badge/Process_Monitor-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)
-![API Monitor](https://img.shields.io/badge/API_Monitor-2E2E2E?style=for-the-badge)
+![API Monitor](https://img.shields.io/badge/API_Monitor-8A2BE2?style=for-the-badge)
 
 ### 🕵️ Стеганография и кодирование
 
-![steghide](https://img.shields.io/badge/steghide-FF6F00?style=for-the-badge)
-![stegsnow](https://img.shields.io/badge/stegsnow-FF6F00?style=for-the-badge)
-![CyberChef](https://img.shields.io/badge/CyberChef-FF6F00?style=for-the-badge)
+![steghide](https://img.shields.io/badge/steghide-8A2BE2?style=for-the-badge)
+![stegsnow](https://img.shields.io/badge/stegsnow-8A2BE2?style=for-the-badge)
+![CyberChef](https://img.shields.io/badge/CyberChef-8A2BE2?style=for-the-badge)
 
 ### 🛰️ Threat Intelligence
 
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-8A2BE2?style=for-the-badge&logo=virustotal&logoColor=white)
-![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-FF6F00?style=for-the-badge)
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-8A2BE2?style=for-the-badge)
 
 ### 🔓 Пароли и хеши
 
-![CrackStation](https://img.shields.io/badge/CrackStation-2E2E2E?style=for-the-badge)
-![hashcat](https://img.shields.io/badge/hashcat-2E2E2E?style=for-the-badge)
+![CrackStation](https://img.shields.io/badge/CrackStation-8A2BE2?style=for-the-badge)
+![hashcat](https://img.shields.io/badge/hashcat-8A2BE2?style=for-the-badge)
 
 </div>
 
