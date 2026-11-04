@@ -4,12 +4,7 @@
 
 ## 🛡️ Malware Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Malware+Analysis;CTF+Enthusiast;Digital+Forensics;Always+Learning" alt="Typing SVG" />
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=tweeksy702&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/tweeksy702?style=for-the-badge&color=blueviolet)](https://github.com/tweeksy702)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&speed=20&color=8A2BE2&center=true&vCenter=true&width=600&lines=Malware+Analysis;CTF+Enthusiast;Digital+Forensics;Always+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -65,7 +60,7 @@ class Egor:
 <br><b>Bash</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/powershell/5391FE" width="50" height="50" alt="PowerShell"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50" alt="PowerShell"/>
 <br><b>PowerShell</b>
 </td>
 </tr>
@@ -288,26 +283,28 @@ class Egor:
 
 ---
 
-## 📊 Моя активность на GitHub
+## 🛡️ Cyber Range Stats
 
 <div align="center">
 
-### 🏆 Трофеи
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+<a href="https://app.hackthebox.com/">
+<img src="https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box"/>
+</a>
+<a href="https://www.root-me.org/">
+<img src="https://img.shields.io/badge/Root--Me-Profile-000000?style=for-the-badge&logo=rootme&logoColor=white" alt="Root-Me"/>
+</a>
+<a href="https://cyberdefenders.org/">
+<img src="https://img.shields.io/badge/CyberDefenders-Profile-0055A4?style=for-the-badge&logo=cyberdefenders&logoColor=white" alt="CyberDefenders"/>
+</a>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=tweeksy702&theme=darkhub&no-frame=true&column=7&margin-w=10)
+<br><br>
 
-### 📈 График коммитов
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tweeksy702&theme=react-dark&hide_border=true&area=true&custom_title=Моя%20активность)
-
-### 🏆 Статистика профиля
-
-<img src="https://github-readme-stats.vercel.app/api?username=tweeksy702&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tweeksy702&theme=dark&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF6F00&currStreakLabel=8A2BE2" width="48%" alt="GitHub Streak"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tweeksy702&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="40%" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/Focus-Malware_Analysis-8A2BE2?style=for-the-badge" alt="Focus"/>
+<img src="https://img.shields.io/badge/Specialty-Digital_Forensics-4B0082?style=for-the-badge" alt="Specialty"/>
+<img src="https://img.shields.io/badge/CTF-Active-FF6F00?style=for-the-badge" alt="CTF"/>
 
 </div>
 
